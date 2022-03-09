@@ -1,0 +1,4 @@
+rootProject.name = 'assignements'
+
+include('week01_adapter_pattern')
+include('week01_composite_pattern')

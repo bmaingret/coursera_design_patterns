@@ -1,0 +1,4 @@
+application {
+    // Define the main class for the application.
+    mainClass  = 'week01_composite_pattern.Program'
+}
